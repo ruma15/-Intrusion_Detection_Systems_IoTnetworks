@@ -7,11 +7,5 @@ Exploratory Data Analysis: Understanding the dataset's structure and identifying
 Visualization: Creating visual representations to highlight significant features and anomalies in the data.​
 
 Modeling: Developing models to classify and detect various types of cyberattacks within IoT networks.​
-GitHub
-+2
-MDPI
-+2
-GitHub
-+2
 
 The repository contains Jupyter notebooks demonstrating the analysis and modeling processes.​
