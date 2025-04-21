@@ -15,16 +15,3 @@ GitHub
 +2
 
 The repository contains Jupyter notebooks demonstrating the analysis and modeling processes.​
-
-If you need further details or assistance with specific parts of the project, feel free to ask!
-
-
-Sources
-
-
-
-
-
-
-
-
