@@ -1,2 +1,30 @@
-# -Intrusion_Detection_Systems_IoTnetworks
-This repository contains EDA, visualization and model to understand the dataset and extract meaningful insights for cyberattack detection and classification.
+This project focuses on analyzing and visualizing data to detect and classify cyberattacks in Internet of Things (IoT) networks. It includes exploratory data analysis (EDA) and modeling to extract meaningful insights for intrusion detection.​
+
+Key Components:
+
+Exploratory Data Analysis: Understanding the dataset's structure and identifying patterns related to cyber threats.​
+
+Visualization: Creating visual representations to highlight significant features and anomalies in the data.​
+
+Modeling: Developing models to classify and detect various types of cyberattacks within IoT networks.​
+GitHub
++2
+MDPI
++2
+GitHub
++2
+
+The repository contains Jupyter notebooks demonstrating the analysis and modeling processes.​
+
+If you need further details or assistance with specific parts of the project, feel free to ask!
+
+
+Sources
+
+
+
+
+
+
+
+
